@@ -13,9 +13,9 @@ Haz clic en los siguientes enlaces para saltar directamente a cada sección del 
 - [Clasificación lineal](notasIA.md#Clasificación-lineal)
 - [Busquedas](notasIA.md#Búsquedas)
 - [Algoritmo de busqueda](notasIA.md#Algoritmos-de-Búsqueda)
-- [Arboles de juego](notasIA.md#Game-Trees:-Adversarial-Search)
-- [Machine Learning: Feature Templates](notasIA.md#Machine-Learning:-Feature-Templates)
-- [Markov Decision Processes (MDP)](notasIA.md#Markov-Decision-Processes-(MDP))
+- [Arboles de juego](notasIA.md#Arboles-de-Juego)
+- [Machine Learning: Feature Templates](notasIA.md#Machine-Learning-Feature-Templates)
+- [Markov Decision Processes (MDP)](notasIA.md#Markov-Decision-Processes-MDP)
 
 
 > Los enlaces usan anclas internas del archivo Markdown. Asegúrate de que tus títulos estén bien formateados con `#` o `##` para que GitHub los reconozca como secciones.
