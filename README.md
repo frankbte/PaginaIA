@@ -8,15 +8,14 @@ Haz clic en los siguientes enlaces para saltar directamente a cada sección del 
 
 - [Introducción](notasIA.md#¿Que-es-la-inteligencia-artificial?)
 - [Generalización](notasIA.md#Generalización)
-- [Arboles de decision](notasIA.md#Arboles_de_decisión)
-- [Regresión lineal](notasIA.md#Regresión_lineal)
-- [Clasificación lineal](notasIA.md#Clasificación_lineal)
-- [Busquedas](notasIA.md#Búsquedas_(Search))
-- [Algoritmo de busqueda](notasIA.md#Algoritmos_de_Búsqueda:)
-- [Arboles de juego](notasIA.md#Game_Trees:_Adversarial_Search)
-- [Machine Learning: Feature Templates](notasIA.md#Machine_Learning:_Feature_Templates)
-- [Markov Decision Processes (MDP)](notasIA.md#Markov_Decision_Processes_(MDP))
-- [Introducción](notasIA.md#¿Que-es-la-inteligencia-artificial?)
+- [Arboles de decision](notasIA.md#Arboles-de-decisión)
+- [Regresión lineal](notasIA.md#Regresión-lineal)
+- [Clasificación lineal](notasIA.md#Clasificación-lineal)
+- [Busquedas](notasIA.md#Búsquedas-(Search))
+- [Algoritmo de busqueda](notasIA.md#Algoritmos-de-Búsqueda:)
+- [Arboles de juego](notasIA.md#Game-Trees:-Adversarial-Search)
+- [Machine Learning: Feature Templates](notasIA.md#Machine-Learning:-Feature-Templates)
+- [Markov Decision Processes (MDP)](notasIA.md#Markov-Decision-Processes-(MDP))
 
 
 > Los enlaces usan anclas internas del archivo Markdown. Asegúrate de que tus títulos estén bien formateados con `#` o `##` para que GitHub los reconozca como secciones.
