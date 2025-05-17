@@ -22,7 +22,7 @@ La función de agente mapea usando desde percepciones históricas hasta acciones
 $$
 f = P^* → A
 $$
-![[Pasted image 20250130083825.png]]![[Pasted image 20250130083847.png]]
+![](img/Pasted-image-20250130083825.png)![](Pasted-image-20250130083847.png)
 
 
 # Generalización 
