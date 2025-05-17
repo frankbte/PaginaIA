@@ -28,7 +28,7 @@ $$
 
 # Generalización 
 
-![[Pasted image 20250130084022.png]]
+![4](img/Pasted_image_20250130084022.png)
 
 ¿ Cual es la funcion que mejor describe el comportamiento de los puntos?
 
@@ -36,7 +36,7 @@ $$
 * La recta roja es demasiado simple, a pesar de que parece pasar por la mediana de los puntos, es dificil creer que su comportamiento lineal explique de manera logica el comportamiento de los puntos.
 * La recta verde es la mejor aproximación, ya que generaliza de manera correcta los puntos, no es demasiado simple pero no es demasiado complicada como para no ser creíble.
 
-![[Pasted image 20250130085008.png]]
+![5](img/Pasted_image_20250130085008.png)
 
 
 # Arboles de decisión
@@ -49,12 +49,12 @@ $$
 La **regresión lineal** es un método estadístico y de aprendizaje automático utilizado para modelar la relación entre una variable dependiente (_Y_) y una o más variables independientes (_X_). Se basa en la idea de ajustar una línea recta a un conjunto de datos de tal manera que minimice la diferencia entre los valores predichos y los valores reales.
 
 
-![[Pasted image 20250226192520.png]]
+![6](img/Pasted_image_20250226192520.png)
 
 
 
 
-![[Pasted image 20250226193549.png]]
+![7](img/Pasted_image_20250226193549.png)
 
 ## Cual es el proposito de la regresion lineal?
 El objetivo es encontrar los coeficientes $$ b_{0}, b_{1} $$que minimicen la suma de los errores (ε\varepsilonε). Se hace mediante el método de **mínimos cuadrados ordinarios (OLS)** o técnicas más avanzadas como el **descenso de gradiente** en Machine Learning.
@@ -68,7 +68,7 @@ La **clasificación lineal** es un método en **aprendizaje automático** que se
 
 Este tipo de clasificación es útil cuando los datos son **linealmente separables**, es decir, se pueden dividir con una línea recta o un plano sin errores significativos.
 
-![[Pasted image 20250226222050.png]]
+![8](img/Pasted_image_20250226222050.png))
 
 
 ### **Modelos de clasificación lineal más comunes**
@@ -97,15 +97,14 @@ Este tipo de clasificación es útil cuando los datos son **linealmente separabl
     - **Modelo de Transición**: Describe cómo las acciones cambian el estado actual. La función `Successors(s)` define las acciones posibles desde un estado `s` y sus resultados.
     - **Función de Costo**: Asigna un costo numérico a cada acción, reflejando el "gasto" de usar esa acción.
 
-![[Pasted image 20250226224233.png]]
+![9](img/Pasted_image_20250226224233.png)
 
 
 ## Cual será nuestro enfoque para resolver el problema?
 ## Que es lo que queremos optimizar?
 
 ### Ejemplo sencillo que ilustra este problema
-![[Pasted image 20250226223927.png]]
-
+![10](img/Pasted_image_20250226223927.png)
 
 - **Tipos de Problemas**: Los problemas de búsqueda pueden clasificarse según la información disponible y la naturaleza del entorno:
     
