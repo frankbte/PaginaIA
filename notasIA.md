@@ -14,7 +14,7 @@ Es el desarrollo de **agentes racionales**, que al interactuar con un entorno **
 * Percepciones
 * Acciones y acciones legales
 
-![Agentes Racionales[img/Pasted image 20250130083413.png]]
+![Agentes Racionales[img/Pasted_image_20250130083413.png]]
 
 Tipos de agentes incluyen: humanos, robots, softbots, termostatos
 
