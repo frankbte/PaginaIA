@@ -14,8 +14,4 @@ Haz clic en los siguientes enlaces para saltar directamente a cada sección del 
 
 También puedes ver las notas en línea a través de GitHub Pages:
 
-🔗 https://frankbte.github.io/Decimo2/
-
----
-
 📂 Repositorio completo: [Decimo2](https://github.com/frankbte/Decimo2)
