@@ -20,6 +20,6 @@ Haz clic en los siguientes enlaces para saltar directamente a cada sección del 
 
 ## GitHub Page
 
-También puedes ver las notas en línea a través de GitHub Pages:
+También puedes ver las notas en línea a través de GitHub Pages: https://frankbte.github.io/PaginaIA/
 
 
