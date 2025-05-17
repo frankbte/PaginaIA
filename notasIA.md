@@ -140,7 +140,7 @@ Este tipo de clasificación es útil cuando los datos son **linealmente separabl
 
 
 
-# Game Trees: Adversarial Search
+# Arboles de Juego
 
 ![[Pasted image 20250226224828.png]]
 
@@ -168,7 +168,7 @@ Este tipo de clasificación es útil cuando los datos son **linealmente separabl
     - `E.g. f1(s) = (num white queens – num black queens)`
     - **Profundidad**: Cuanto más profunda es la búsqueda, menos importa la calidad de la función de evaluación.
 
-# Machine Learning: Feature Templates
+# Machine Learning Feature Templates
 
 - **Extracción de Características**: El proceso de transformar datos brutos en un conjunto de características que pueden ser utilizadas por un modelo de aprendizaje automático. La calidad de las características afecta directamente el rendimiento del modelo.
     
@@ -186,7 +186,7 @@ Este tipo de clasificación es útil cuando los datos son **linealmente separabl
     - **Plantilla de Característica**: "Los últimos tres caracteres son iguales a...". Esto generaría características como `endsWith aaa`, `endsWith aab`, ..., `endsWith com`, ..., `endsWith zzz`.
 
 
-# Markov Decision Processes (MDP)
+# Markov Decision Processes MDP
 
 ## Que es?
 
