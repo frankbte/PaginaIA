@@ -113,7 +113,7 @@ Este tipo de clasificación es útil cuando los datos son **linealmente separabl
     - **Parcialmente Observable/No Determinista (Contingencia)**: El agente tiene información limitada y las acciones pueden tener resultados inciertos.
     - **Espacio de Estados Desconocido (Exploración)**: El agente debe aprender sobre el espacio de estados a medida que lo explora.
 
-# Algoritmos de Búsqueda:
+# Algoritmos de Búsqueda
 - 
     - **Búsqueda en Árbol (Tree Search)**: Explora el espacio de estados construyendo un árbol de búsqueda, donde los nodos representan caminos posibles.
         
