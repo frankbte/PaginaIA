@@ -11,7 +11,7 @@ Haz clic en los siguientes enlaces para saltar directamente a cada sección del 
 - [Arboles de decision](notasIA.md#Arboles-de-decisión)
 - [Regresión lineal](notasIA.md#Regresión-lineal)
 - [Clasificación lineal](notasIA.md#Clasificación-lineal)
-- [Busquedas](notasIA.md#Búsquedas-(Search))
+- [Busquedas](notasIA.md#Búsquedas)
 - [Algoritmo de busqueda](notasIA.md#Algoritmos-de-Búsqueda:)
 - [Arboles de juego](notasIA.md#Game-Trees:-Adversarial-Search)
 - [Machine Learning: Feature Templates](notasIA.md#Machine-Learning:-Feature-Templates)
