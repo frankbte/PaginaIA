@@ -12,7 +12,7 @@ Haz clic en los siguientes enlaces para saltar directamente a cada sección del 
 - [Regresión lineal](notasIA.md#Regresión-lineal)
 - [Clasificación lineal](notasIA.md#Clasificación-lineal)
 - [Busquedas](notasIA.md#Búsquedas)
-- [Algoritmo de busqueda](notasIA.md#Algoritmos-de-Búsqueda:)
+- [Algoritmo de busqueda](notasIA.md#Algoritmos-de-Búsqueda)
 - [Arboles de juego](notasIA.md#Game-Trees:-Adversarial-Search)
 - [Machine Learning: Feature Templates](notasIA.md#Machine-Learning:-Feature-Templates)
 - [Markov Decision Processes (MDP)](notasIA.md#Markov-Decision-Processes-(MDP))
