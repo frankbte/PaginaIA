@@ -86,7 +86,7 @@ Este tipo de clasificación es útil cuando los datos son **linealmente separabl
 
 
 
-# Búsquedas (Search)
+# Búsquedas
 
 ## Que es un problema de búsqueda?
 
