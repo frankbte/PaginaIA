@@ -121,11 +121,11 @@ Este tipo de clasificación es útil cuando los datos son **linealmente separabl
         - **Expansión**: Generar los sucesores de un nodo.
         - **Estrategia de Exploración**: El método utilizado para seleccionar qué nodo expandir a continuación.
     - **Búsqueda en Profundidad (DFS)**: Expande el nodo más profundo en la frontera. Utiliza una pila LIFO (Last In, First Out).
-        ![[Pasted image 20250303221903.png]]
+        ![11](img/Pasted_image_20250303221903.png)
     - **Búsqueda en Anchura (BFS)**: Expande el nodo menos profundo en la frontera. Utiliza una cola FIFO (First In, First Out). BFS encuentra el camino más corto en términos de número de transiciones, pero no necesariamente el de menor costo.
-        ![[Pasted image 20250303221923.png]]
+        ![12](img/Pasted_image_20250303221923.png)
     - **Búsqueda de Costo Uniforme (UCS)**: Expande el nodo con el costo de ruta más bajo. Es completo y óptimo, pero puede ser ineficiente porque explora en todas las direcciones.
-- ![[Pasted image 20250303221958.png]]
+- ![13](img/Pasted_image_20250303221958.png)
         
     - **A***: Una búsqueda informada que combina el costo del camino recorrido hasta el momento (`g(n)`) con una estimación heurística del costo restante hasta el objetivo (`h(n)`).
         
@@ -142,20 +142,20 @@ Este tipo de clasificación es útil cuando los datos son **linealmente separabl
 
 # Arboles de Juego
 
-![[Pasted image 20250226224828.png]]
+![14](img/Pasted_image_20250226224828.png)
 
 - **Juegos Adversarios**: Involucran múltiples agentes con objetivos conflictivos.
     
     - **Juegos de Suma Cero**: La utilidad total de todos los jugadores es constante. Un jugador intenta maximizar su utilidad, mientras que el otro intenta minimizarla.
-	![[Pasted image 20250226224858.png]]
+	![15](img/Pasted_image_20250226224858.png)
     - **Información Perfecta**: Todos los jugadores tienen acceso completo al estado del juego.
 - **Minimax**: Un algoritmo recursivo para juegos deterministas de suma cero.
-![[Pasted image 20250226224945.png]]
+![16](img/Pasted_image_20250226224945.png)
     
 - **Valor Minimax**: Representa el mejor resultado que un jugador puede lograr asumiendo que el oponente juega óptimamente.
     - **Implementación**: Las funciones `max-value` y `min-value` alternan recursivamente para calcular el valor minimax de cada nodo en el árbol del juego.
     - **Complejidad**: La complejidad temporal es O(b^m) y la complejidad espacial es O(bm), donde 'b' es el factor de ramificación y 'm' es la profundidad del árbol.
-![[Pasted image 20250226225024.png]]
+![17](img/Pasted_image_20250226225024.png)
 - **Poda Alfa-Beta**: Una optimización del algoritmo Minimax que reduce el número de nodos que deben ser evaluados.
     
     - **Alfa (α)**: El valor de la mejor opción (la más alta) encontrada hasta ahora en cualquier punto de elección a lo largo del camino para el jugador MAX.
@@ -218,22 +218,22 @@ $0 <= 0 <= 1$  ------- Factor de descuento
 
 continuacion ...
 
-![[Pasted image 20250313200416.png]]
+![18](img/Pasted_image_20250313200416.png)
 
-![[Pasted image 20250313200431.png]]
+![19](img/Pasted_image_20250313200431.png)
 ## Ejemplo simple
 
 
 
-![[Pasted image 20250313193524.png]]
+![20](img/Pasted_image_20250313193524.png)
 
 
-![[Pasted image 20250313193429.png]]
+![21](img/Pasted_image_20250313193429.png)
 
 
 
 ## Un poco de probabilidad
 
-![[Pasted image 20250313200522.png]]
+![22](img/Pasted_image_20250313200522.png)
 
-![[Pasted image 20250313200531.png]]
+![23](img/Pasted_image_20250313200531.png)
